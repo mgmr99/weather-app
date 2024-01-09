@@ -1,7 +1,5 @@
 # ![Weather App](weather-app.PNG)
 
-![Weather App](path/to/your/image.png)
-
 A simple weather application built with Laravel 10 that utilizes the OpenWeather API to provide real-time weather information.
 
 ## Features
