@@ -16,5 +16,5 @@ use App\Http\Controllers\WeatherController;
 
 
 Route::get('/', [WeatherController::class, 'index'])->name('home');
-Route::post('/forecast', [WeatherController::class, 'showResults'])->name('search');
+Route::post('/', [WeatherController::class, 'showResults'])->name('search');
 
