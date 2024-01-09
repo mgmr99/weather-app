@@ -37,10 +37,16 @@ A simple weather application built with Laravel 10 that utilizes the OpenWeather
 5. Run the migrations:
    ```bash
    php artisan migrate
-6.Serve the application
+6. Serve the application
     ```bash
         php artisan serve
 
 Visit http://localhost:8000 in your browser.
 
-
+## Usage
+Navigate to the home page.
+Enter the city name or coordinates.
+Click on the "Search" button to retrieve current conditions or forecasts.
+ 
+## Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request.
