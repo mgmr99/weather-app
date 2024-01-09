@@ -6,18 +6,11 @@ A simple weather application built with Laravel 10 that utilizes the OpenWeather
 
 -   **Current Weather**: Get the current weather conditions for a specific location.
 -   **Forecast**: Retrieve a 5-day weather forecast for a given location.
--   **Responsive Design**: The app is designed to work seamlessly on various devices.
--   **Current Weather**: Get the current weather conditions for a specific location.
--   **Forecast**: Retrieve a 5-day weather forecast for a given location.
--   **Responsive Design**: The app is designed to work seamlessly on various devices.
 
 ## Getting Started
 
 ### Prerequisites
 
--   PHP >= 7.4
--   Composer
--   # Laravel CLI
 -   PHP >= 7.4
 -   Composer
 -   Laravel CLI
