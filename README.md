@@ -39,7 +39,7 @@ A simple weather application built with Laravel 10 that utilizes the OpenWeather
    php artisan migrate
 6.Serve the application
     ```bash
-    php artisan serve
+        php artisan serve
 
 Visit http://localhost:8000 in your browser.
 
