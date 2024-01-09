@@ -1,11 +1,6 @@
+# ![Weather App](weather-app.PNG)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-![Weather App](weather-app.PNG)
-=======
 ![Weather App](path/to/your/image.png)
-
-> > > > > > > 4793200985c5282d81b88aa025731a167fd3cae4
 
 A simple weather application built with Laravel 10 that utilizes the OpenWeather API to provide real-time weather information.
 
@@ -22,21 +17,16 @@ A simple weather application built with Laravel 10 that utilizes the OpenWeather
 
 ### Prerequisites
 
-<<<<<<< HEAD
-
 -   PHP >= 7.4
 -   Composer
 -   # Laravel CLI
 -   PHP >= 7.4
 -   Composer
 -   Laravel CLI
-    > > > > > > > 4793200985c5282d81b88aa025731a167fd3cae4
 
 ### Installation
 
 1. Clone the repository:
-
-<<<<<<< HEAD
 
 `````bash
 git clone https://github.com/your-username/your-weather-app.git
@@ -93,7 +83,6 @@ php artisan migrate
      php artisan serve
 
 Visit http://localhost:8000 in your browser.
->>>>>>> 4793200985c5282d81b88aa025731a167fd3cae4
 
 ## Usage
 Navigate to the home page.
@@ -101,11 +90,7 @@ Enter the city name or coordinates.
 Click on the "Search" button to retrieve current conditions or forecasts.
 
 ## Contributing
-<<<<<<< HEAD
 
-=======
->>>>>>> 4793200985c5282d81b88aa025731a167fd3cae4
 Contributions are welcome! Feel free to open an issue or submit a pull request.
+
 `````
-=======
->>>>>>> b67e20c99a03556bc4b1c61fd1acf0652d8d6adf
